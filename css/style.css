@@ -1,0 +1,28 @@
+body {
+  background-color: #eee;
+  color: #555555; }
+
+.fond {
+  background-color: white;
+  padding: 50px 20px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  margin-bottom: 50px;
+  border-top: 10px solid #69f0ae; }
+
+header {
+  background-color: #00c853;
+  color: white;
+  padding: 50px 50px 150px 50px;
+  margin-bottom: -100px; }
+
+h1 {
+  font-size: 100px;
+  text-align: center; }
+
+footer {
+  padding: 50px 0; }
+
+.form-control {
+  border-radius: 0; }
+
+/*# sourceMappingURL=style.css.map */
