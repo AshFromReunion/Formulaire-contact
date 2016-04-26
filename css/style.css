@@ -25,4 +25,8 @@ footer {
 .form-control {
   border-radius: 0; }
 
+@media screen and (max-width: 991px) {
+  h1 {
+    font-size: 40px; } }
+
 /*# sourceMappingURL=style.css.map */
